@@ -1,0 +1,2 @@
+"sales_id","employee_id","customer_id","product_id","quantity","discount","total_price","sales_timestamp","transaction_number"
+1,104,7685,408,4,0.24,37.6,2023-05-19 20:49:25.000,T0000000001

@@ -1,0 +1,1 @@
+grant insert, update on table sales to data_engineer_trainee;

@@ -1,0 +1,1 @@
+alter table Data_Layers add column manager_email VARCHAR(100);
