@@ -1,0 +1,9 @@
+"status","segment_level","customer_count","total_segment_revenue","revenue_percent"
+Active,VIP,16689,33663967.28,24.30
+Active,Silver,14576,17283021.49,12.47
+Active,Gold,15539,22663669.30,16.36
+Active,Bronze,12694,10957851.14,7.91
+Inactive,VIP,8311,17602799.91,12.70
+Inactive,Silver,10424,12332846.83,8.90
+Inactive,Gold,9461,13758706.34,9.93
+Inactive,Bronze,12306,10295734.56,7.43
