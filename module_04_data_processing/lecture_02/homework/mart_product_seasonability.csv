@@ -1,0 +1,46 @@
+"category_name","month_num","month_name","tier_list","category_month_revenue","percent_of_month","percent_of_category","percent_of_total_revenue"
+Baby Products,6,June     ,B-class month,552666.91,4.45,8.88,0.40
+Baby Products,11,November ,A-class month,556477.22,4.86,8.94,0.40
+Baby Products,12,December ,S-class month,589044.85,4.50,9.46,0.43
+Bakery & Wholegrain,7,July     ,A-class month,758361.39,5.10,8.86,0.55
+Bakery & Wholegrain,8,August   ,B-class month,754447.49,6.28,8.82,0.54
+Bakery & Wholegrain,12,December ,S-class month,777404.86,5.94,9.09,0.56
+Canned & Jarred Goods,1,January  ,B-class month,689283.22,6.48,9.36,0.50
+Canned & Jarred Goods,11,November ,A-class month,803529.67,7.02,10.91,0.58
+Canned & Jarred Goods,12,December ,S-class month,928448.56,7.09,12.61,0.67
+Coffee & Tea,1,January  ,A-class month,1004711.86,9.44,12.30,0.73
+Coffee & Tea,11,November ,B-class month,879544.88,7.68,10.77,0.63
+Coffee & Tea,12,December ,S-class month,1098506.38,8.39,13.45,0.79
+Fish & Seafood,2,February ,A-class month,1049010.37,10.06,10.05,0.76
+Fish & Seafood,11,November ,B-class month,1006555.28,8.79,9.64,0.73
+Fish & Seafood,12,December ,S-class month,1307537.28,9.99,12.53,0.94
+Frozen Foods,1,January  ,S-class month,1224298.31,11.50,14.79,0.88
+Frozen Foods,2,February ,A-class month,1045055.59,10.02,12.62,0.75
+Frozen Foods,12,December ,B-class month,987123.44,7.54,11.92,0.71
+Fruits,6,June     ,B-class month,1723082.31,13.89,10.84,1.24
+Fruits,7,July     ,S-class month,1998482.53,13.43,12.58,1.44
+Fruits,8,August   ,A-class month,1894203.10,15.76,11.92,1.37
+Healthy Drinks,6,June     ,B-class month,1579373.87,12.73,12.16,1.14
+Healthy Drinks,7,July     ,S-class month,3830508.45,25.74,29.49,2.76
+Healthy Drinks,8,August   ,A-class month,1698936.46,14.14,13.08,1.23
+Household Essentials,4,April    ,B-class month,563811.05,5.50,8.74,0.41
+Household Essentials,6,June     ,A-class month,577857.56,4.66,8.96,0.42
+Household Essentials,10,October  ,S-class month,582905.05,5.50,9.04,0.42
+Meat & Poultry,6,June     ,A-class month,1611700.33,12.99,13.26,1.16
+Meat & Poultry,7,July     ,S-class month,1743459.20,11.72,14.34,1.26
+Meat & Poultry,8,August   ,B-class month,1224713.47,10.19,10.08,0.88
+Natural Snacks,10,October  ,B-class month,935079.92,8.82,9.34,0.67
+Natural Snacks,11,November ,S-class month,1022077.98,8.93,10.21,0.74
+Natural Snacks,12,December ,A-class month,984323.86,7.52,9.83,0.71
+Personal Care,6,June     ,A-class month,607870.79,4.90,9.20,0.44
+Personal Care,7,July     ,B-class month,563928.71,3.79,8.54,0.41
+Personal Care,12,December ,S-class month,630166.79,4.81,9.54,0.45
+Pet Food,1,January  ,B-class month,480725.74,4.52,8.71,0.35
+Pet Food,11,November ,A-class month,516043.87,4.51,9.35,0.37
+Pet Food,12,December ,S-class month,548952.06,4.19,9.95,0.40
+Plant-Based Dairy,6,June     ,B-class month,877980.75,7.08,9.57,0.63
+Plant-Based Dairy,7,July     ,S-class month,944062.62,6.34,10.29,0.68
+Plant-Based Dairy,8,August   ,A-class month,882324.82,7.34,9.62,0.64
+Vegetables,6,June     ,S-class month,1020210.44,8.22,9.51,0.74
+Vegetables,7,July     ,A-class month,996821.82,6.70,9.29,0.72
+Vegetables,12,December ,B-class month,995294.58,7.60,9.27,0.72
